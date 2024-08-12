@@ -1,0 +1,18 @@
+{
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "description": "I am using inquirer and qr-image to generate qr-code image of user entered URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Raj",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "inquirer": "^9.3.6",
+    "qr-image": "^3.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
